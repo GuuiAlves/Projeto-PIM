@@ -1,0 +1,13 @@
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\Dashboard.dll.config
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\Dashboard.dll
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\Dashboard.pdb
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\BuscaSalaEntities.dll
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\DashboardBLL.dll
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\BuscaSalaEntities.pdb
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\DashboardBLL.pdb
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\obj\Debug\Dashboard.dll
+C:\Users\Guilherme\Desktop\BuscaSala\Dashboard\obj\Debug\Dashboard.pdb

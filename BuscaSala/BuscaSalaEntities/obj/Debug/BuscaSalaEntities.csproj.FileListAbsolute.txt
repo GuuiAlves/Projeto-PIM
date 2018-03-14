@@ -1,0 +1,6 @@
+C:\Users\Guilherme\Desktop\BuscaSala\BuscaSalaEntities\bin\Debug\BuscaSalaEntities.dll
+C:\Users\Guilherme\Desktop\BuscaSala\BuscaSalaEntities\bin\Debug\BuscaSalaEntities.pdb
+C:\Users\Guilherme\Desktop\BuscaSala\BuscaSalaEntities\obj\Debug\BuscaSalaEntities.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\BuscaSala\BuscaSalaEntities\obj\Debug\BuscaSalaEntities.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\BuscaSala\BuscaSalaEntities\obj\Debug\BuscaSalaEntities.dll
+C:\Users\Guilherme\Desktop\BuscaSala\BuscaSalaEntities\obj\Debug\BuscaSalaEntities.pdb
